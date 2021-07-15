@@ -1,0 +1,8 @@
+1. create folder
+2. open cmd. & directory to folder
+3. type: npm install -g express-generator
+4. type: express --view=ejs myNodeJs => (create project name myNodeJs)
+5. type: cd myNodeJs
+6. type: npm instaa => (to install package in "pacage.json)
+7. type: npm start
+8. go to web brownser: localhost:3000
